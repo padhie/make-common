@@ -19,7 +19,8 @@ build:	## build the application
 ```
 ```bash
 $ make help
- build           build the application
+  build           build the application
+  help
 ```
 
 ## help_with_param.mk
@@ -29,6 +30,6 @@ build:	##@target=	## build the application
 ```
 ```bash
 $ make help
- build env=               build the application
- help
+  build env=               build the application
+  help
 ```
